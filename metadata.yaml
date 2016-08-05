@@ -1,0 +1,32 @@
+_repo: Windy-McPherson-s-Son_7443
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Sherwood
+    alias: Fever, Buck
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '231'
+    url: http://www.gutenberg.org/2009/agents/231
+    wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
+description: '"In the restaurant the young man began talking of himself. He was a
+  graduate of the University of Pennsylvania. His father had died while he was yet
+  in school and had left him a modest fortune, upon the income of which he lived with
+  his mother. He did no work and was enormously proud of the fact."--Publisher''s
+  website.'
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- GITenberg
+title: Windy McPherson's Son
+url: http://www.gutenberg.org/ebooks/7443
