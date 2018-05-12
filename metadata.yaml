@@ -1,5 +1,8 @@
 _repo: Windy-McPherson-s-Son_7443
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anderson, Sherwood
@@ -14,6 +17,8 @@ description: '"In the restaurant the young man began talking of himself. He was 
   in school and had left him a modest fortune, upon the income of which he lived with
   his mother. He did no work and was enormously proud of the fact."--Publisher''s
   website.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7443#Windy-McPherson-s-Son
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
